@@ -64,7 +64,7 @@ We can add links [My Link](http://www.google.com)
 
 ## Images
 
-We can add images ![my image stolen from google](https://i.chzbgr.com/thumb800/2451461/hC8A4840A/seventeen-very-funny-memes-for-today)
+We can add images ![my image stolen from google](https://cdn.prod.website-files.com/650b227bcdb8ac34f48bf223/651f64cd1dd245d647d0f222_651f284d8907825f8784fa22_Markdown.jpeg)
 
 
 ## Code Block
